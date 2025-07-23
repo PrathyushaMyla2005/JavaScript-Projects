@@ -17,4 +17,4 @@ A simple, stylish To-Do List app using HTML, CSS, and JavaScript.
 - JavaScript (DOM)
 
 ## 📸 Screenshot
-*(You can add later like: ![screenshot](screenshot.jpg))*
+*(You can add later like: ![screenshot](screenshot.png))*
