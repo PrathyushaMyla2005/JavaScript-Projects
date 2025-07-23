@@ -9,7 +9,7 @@ A simple, stylish To-Do List app using HTML, CSS, and JavaScript.
 - Responsive UI
 
 ## 🚀 Live Demo
-👉 [View Project](https://yourusername.github.io/to-do-list/)
+👉 [Click to View Project](https://prathyu123.github.io/to-do-list/)
 
 ## 💻 Tech Stack
 - HTML5
@@ -17,4 +17,4 @@ A simple, stylish To-Do List app using HTML, CSS, and JavaScript.
 - JavaScript (DOM)
 
 ## 📸 Screenshot
-*(You can add later like: ![screenshot](screenshot.png))*
+![Screenshot](screenshot.png)
